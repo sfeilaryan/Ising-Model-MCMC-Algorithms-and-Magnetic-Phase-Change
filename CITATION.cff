@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this report or the provided scripts in your research, please cite them using the following metadata."
+title: "Magnetic Phase Transitions in Lattice Magnet Configurations Modelled by the 2D Ising Model and Monte-Carlo Markov Chain Algorithms"
+authors:
+  - family-names: "Sfeila"
+    given-names: "Ryan"
+  - family-names: "Pillay"
+    given-names: "Andrey"
+  - family-names: "Mathiot"
+    given-names: "Paul"
+supervisors:
+  - family-names: "Couairon"
+    given-names: "Arnaud"
+date-released: 2024-05-31
+version: "1.0.0"
+url: "https://github.com/sfeilaryan/Ising-Model-MCMC-Algorithms-and-Magnetic-Phase-Change"
+license: "BSD-3-Clause"
+institute: "École Polytechnique"
